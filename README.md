@@ -6,6 +6,7 @@ Local businesses and coaching institutes that send manual WhatsApp messages to p
 
 ## Requirements:
 Python — python.org
+
 Groq API key — console.groq.com
 
 ## Setup:
