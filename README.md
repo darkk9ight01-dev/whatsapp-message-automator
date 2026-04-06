@@ -1,8 +1,7 @@
 # WhatsApp Message Automator
-Generates customised WhatsApp messages for coaching institutes and local businesses in India — for absences, fee reminders and exam alerts in Hindi, Marathi and English.
-
+Generates customised WhatsApp messages for any business type - adapt it for coaching institutes, gyms, clinics, or any local business
 ## Who is it for:
-Local businesses and coaching institutes that send manual WhatsApp messages to parents or customers.
+Local businesses that send manual WhatsApp messages to parents or customers.
 
 ## Requirements:
 Python — python.org
